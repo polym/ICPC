@@ -1,0 +1,2 @@
+sudo mv /lib/modules/xxxx/kernel/drivers/usb/storage /lib/modules/xxxx/kernel/drivers/usb/storage_bak
+sudo reboot
