@@ -11,13 +11,11 @@
 ##### 添加新博客 #####
 
 `./scripts/blog.py add $title $filename`
-
 _`$title`与`$filename`是对应的标题内容与md文件_
 
 ##### 修改现有博客 #####
 
 `./scripts/blog.py change $filename`
-
 _`$filename`是对应的md文件_
 
 ##### 重新生成所有博客网页 #####
