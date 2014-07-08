@@ -7,16 +7,13 @@
 * 静态网页模板以及相关的`js/css`实现处理好
 
 #### 具体使用用例 ####
-
 ##### 添加新博客 #####
-
 `./scripts/blog.py add $title $filename`
-_`$title`与`$filename`是对应的标题内容与md文件_
+_ `$title`与`$filename`是对应的标题内容与md文件 _
 
 ##### 修改现有博客 #####
-
 `./scripts/blog.py change $filename`
-_`$filename`是对应的md文件_
+_ `$filename`是对应的md文件 _
 
 ##### 重新生成所有博客网页 #####
 `./scripts/blog.py change`
